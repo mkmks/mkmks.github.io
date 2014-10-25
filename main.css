@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    background-color: #FFFFFF;    
+
+    font-family: 'Times New Roman';
+    font-size: 26px;
+}
+
+#home {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px
+}
+
+#home a {
+    text-decoration: none;
+}
+
+#home img {
+    margin-bottom: 30px;
+}
+
+.posts {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {    
+    margin-bottom: 30px;
+}
+
+article {
+    -webkit-font-smoothing: antialiased;    
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.01rem;    
+    line-height: 1.5;    
+    text-align: justify;
+    text-rendering: optimizelegibility;
+    word-wrap: break-word;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px
+}

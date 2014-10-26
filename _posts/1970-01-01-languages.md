@@ -26,11 +26,8 @@ languages cover all 5 original Great Powers (Britain, France, Prussia, Austria,
 Russia).
 
 |           | SEA     | LAND     |
-| --------- | ------- | -------- |
 | ROMAN     | English | Russian  |
-| --------- | ------- | -------- |
 | GREEK     | French  | German   |
-| --------- | ------- | -------- |
 | BARBARIAN | Spanish | Mandarin |
 
 (of course, the modern Standard Mandarin didn't exist in the 19th century, and
@@ -48,9 +45,7 @@ covering giant Asian landmasses and providing a wealth of natural resources and
 labor forces correspondingly (fans of Galkovsky can smirk here).
 
 |           |UK      | US        |
-| ----------|--------|---------- |
 | NEO-LATIN |French  | Spanish   |
-| ----------|--------|---------- |
 | EXOTIC    |Russian | Mandarin  |
 
 The 5 languages (English included) correspond to official languages of United
@@ -66,6 +61,14 @@ and, contrary to popular belief, not spoken natively by many. The remaining two,
 Spanish and Russian, are not spoken outside of their native regions, but
 nevertheless have a reputation of “world languages”.
 
+Coming into the globalized 21st century, we witness how growth slows down in the
+metropolies and skyrockets in the colonies. The journey of Russia from the
+former category to the latter is irreversibly complete. Luxury items are now
+consumed (at least visibly) by oligarchs from the still so called third world.
+
+| OLD MONEY  | English | French | German    | *Russian* |
+| NEWLY RICH | Spanish | Arabic | *Russian* | Mandarin  |
+
 Another way to look at practicality of a language is to see if its speakers are
 buying and what. While English has solid presence in both global North and
 global South, for other languages it’s not so clear. A fancy phone-dwelling
@@ -75,9 +78,7 @@ machines target another. Alternatively, the “19th century” languages are eit
 removed.
 
 |         | SCARY   | FOOD    | SCRIBBLES |
-| ------- | ------- | ------- | --------- |
 | SIRI    | German  | French  | Japanese  |
-| ------- | ------- | ------- | --------- |
 | NYC MTA | Russian | Spanish | Mandarin  |
 
 The 7 languages mentioned above “cover” (as in “are spoken natively by”, or “are
@@ -87,16 +88,16 @@ comparable to them in impact in a combination of politics, economy, diplomacy,
 trade, military, science, engineering, education, literature, cinema, music,
 fine arts and fine dining.
 
-The prominent non-Western languages not mentioned above are not so
-universal. Arabic, brought to mass attention rather recently (1970s) because of
-issues around oil extraction, is not a single language but a family of related
-but mutually unintelligible dialects. The commonly studied variety, Modern
-Standard Arabic, is only spoken by the educated (who anyway speak French, or
-English, or both) and won’t be of help in a street conversation. Turkish and
-Persian, while carrying a substantial cultural background, also can’t be
-prioritized by those who have made the respective regions their
-field. Hindi-Urdu and Malay-Indonesian represent large economies and large
-populations who still use English for business and education.
+The prominent non-Western languages are not so universal. Arabic, brought to
+mass attention rather recently (1970s) because of issues around oil extraction,
+is not a single language but a family of related but mutually unintelligible
+dialects. The commonly studied variety, Modern Standard Arabic, is only spoken
+by the educated (who anyway speak French, or English, or both) and won’t be of
+help in a street conversation. Turkish and Persian, while carrying a substantial
+cultural background, also can’t be prioritized by those who have made the
+respective regions their field. Hindi-Urdu and Malay-Indonesian represent large
+economies and large populations who still use English for business and
+education.
 
 Of 7 languages of Western Europe, two, Dutch and Portuguese, have a similar fate
 in the sense that both have been languages of maritime trade empires which
@@ -127,12 +128,12 @@ with their subdivisions) and military alliances in the conflict that determined
 the current world order. Besides following the labels, there is more in reading
 this table, which I explain next.
 
-| SAXONS | English | German | Russian |
-| ROMANS  | | | |
-| French |  ALLIES  |         | Chinese |
-| Italian |        |  AXIS  |   Japanese |
-| |        |        |    FAR EAST |
-| Spanish | Arabic |  Persian | NEAR EAST |
+| SAXONS  | English | German  | Russian   |
+| ROMANS  |         |         |           |
+| French  | ALLIES  |         | Chinese   |
+| Italian |         | AXIS    | Japanese  |
+|         |         |         |  FAR EAST |
+| Spanish | Arabic  | Persian | NEAR EAST |
 
 
 The Western culture has two major subtraditions, Roman (from eponymous empire)
@@ -168,4 +169,16 @@ There isn’t a single Eastern culture. The deserts and mountains, apart from
 great distances made interactions between Near and Far East limited to the Silk
 Road trade. Islamic and Confucian-Buddhist traditions haven’t amalgamated in
 reality but in fiction as zen-sunnism of Frank Herbert’s “Dune”. This makes
-Eastern languages only an optional component of an education.
+Eastern languages only an optional component of an education. But while the Near
+East is an ever-warring disaster, the Far East is a valuable trade parter. Let's
+abridge the table a bit, which will also help with labeling.
+
+| ALLIES       | COLONIZERS | ISOLATES | ORIENTALS |
+| SUPERPOWERS  | English    | Russian  | Chinese   |
+| GREAT POWERS | French     | German   | Japanese  |
+| LATINS       | Spanish    | Italian  | AXIS      |
+
+The Allies/Axis labels should be read not row-column-wise, but proximity-wise
+. Here, "Allies" are used in a broad sense of UN official languages. The row
+dimension corrensponds to the world in the 19th century, and the column
+dimension to the 20th.
